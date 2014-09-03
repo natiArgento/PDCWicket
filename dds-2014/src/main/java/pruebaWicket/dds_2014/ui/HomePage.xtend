@@ -1,4 +1,4 @@
-package pruebaWicket.dds_2014
+package pruebaWicket.dds_2014.ui
 
 import org.apache.wicket.markup.html.basic.Label
 import org.apache.wicket.markup.html.WebPage

@@ -1,4 +1,4 @@
-package pruebaWicket.dds_2014
+package pruebaWicket.dds_2014.ui
 
 import org.apache.wicket.protocol.http.WebApplication
 
