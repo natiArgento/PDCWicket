@@ -8,7 +8,7 @@ import org.uqbar.wicket.xtend.WicketExtensionFactoryMethods
  * 
  * @author ?
  */
-class MateriasPage extends WebPage {
+class HomePage extends WebPage {
 	extension WicketExtensionFactoryMethods = new WicketExtensionFactoryMethods
 
 	new() {

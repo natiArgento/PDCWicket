@@ -15,13 +15,12 @@ import pruebaWicket.dds_2014.dominio.Nivel
 class WicketApplication extends WebApplication {
 	
 	override getHomePage() {
-		MateriasPage
+		HomePage
 	}
 	
 	override init() {
 		super.init()
-		ApplicationContext.instance.configureSingleton(typeof(Materia), new HomeMaterias)
-		ApplicationContext.instance.configureSingleton(typeof(Nivel), new HomeNivel)
+		
 	}
 	
 }
